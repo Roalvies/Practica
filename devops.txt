@@ -1,8 +1,0 @@
-Hola
-como
-estamos
-para
-trabajar
-en
-devops
-
